@@ -7,4 +7,4 @@ We have 4 published Jupyter notebooks.
 
 3 contains the code/results for the final XGBoost-based model.
 
-4 contains the code for the subanalysis across 4 different sociodemographic groups and 4 ISS cohorts.
+4 contains the code for the subanalysis across 4 different sociodemographic groups and high ISS cohorts.
