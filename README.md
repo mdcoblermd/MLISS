@@ -1,4 +1,4 @@
-We have 4 published Jupyter notebooks.
+We have 5 published Jupyter notebooks.
 
 
 1 contains the code used to develop the preliminary model, in which we include most variables in the training dataset to help select variables for potential inclusion in a final model.
@@ -8,3 +8,5 @@ We have 4 published Jupyter notebooks.
 3 contains the code/results for the final XGBoost-based model.
 
 4 contains the code for the subanalysis across 4 different sociodemographic groups and high ISS cohorts.
+
+5 contains the code for the sensitivity analysis in which we include previously excluded demographic variables to assess their effect on model performance
